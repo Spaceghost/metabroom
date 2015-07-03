@@ -2,4 +2,4 @@
 
 require "metabroom/cli"
 
-Metabroom::CLI.start(ARGV)
+# Metabroom::CLI.start(ARGV)
