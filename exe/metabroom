@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
-require "metabroom"
+require "metabroom/cli"
+
+Metabroom::CLI.start(ARGV)
