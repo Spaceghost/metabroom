@@ -1,8 +1,6 @@
 # Metabroom
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/metabroom`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Metabroom is a command line application generator that ships with generators, libraries, and other tooling for building command line applications easily.
 
 ## Installation
 
